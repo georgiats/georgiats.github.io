@@ -1,2 +1,2 @@
 # georgiats.github.io
-My personal blog
+Welcome to my <a href='http://www.georgiatsiamanta.com'> happiness blog!</a>

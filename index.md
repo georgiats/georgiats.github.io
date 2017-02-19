@@ -1,12 +1,10 @@
 ---
-permalink: /about/
 title: "Welcome to my page"
 excerpt: "This is my personal happiness blog"
 modified: 2017-02-17T09:40:33-05:00
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/featured_image.jpg
-
 ---
 
 Hi everybody! 
