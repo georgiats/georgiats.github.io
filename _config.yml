@@ -13,7 +13,7 @@ name                     : "Georgia Tsiamanta"
 description              : "Welcome to my happiness blog."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : georgiats/georgiats.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #theme                    : "minimal-mistakes-jekyll"
 # breadcrumbs            : false # true, false (default)
