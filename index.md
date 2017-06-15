@@ -26,3 +26,4 @@ I currently work as a Customer Support Consultant. I help many SaaS, tech and no
 + work with the APIs and write custom scripts to migrate data from an old support app to a new one
 + build a custom help center in Zendesk or any other similar tool by editing the HTML, CSS and JavaScript and give a personalized and unique touch and feel at any help center
 + create reports and plots for all the important KPIs any company should track, by using e.g. Zendesk's GoodData. 
++ setting up and apply the integrations for the following apps & tools: Totango, Zendesk, GoodData, Zopim, Mixpanel, Pipedrive, Zapier, Workato, Intercom, Asana, Slack, GitHub, Lucidchart, Google Drive
